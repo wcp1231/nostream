@@ -1,9 +1,9 @@
 {
   "info": {
-    "relay_url": "wss://nostream.localtest.me",
-    "name": "nostream.localtest.me",
+    "relay_url": "wss://nostream-production-4742.up.railway.app",
+    "name": "selfhost.nostream",
     "description": "A nostr relay written in Typescript.",
-    "pubkey": "00000000827ffaa94bfea288c3dfce4422c794fbb96625b6b31e9049f729d700",
+    "pubkey": "5df1e852b8718587540956fbe71fd44acb765e99a7e661ec521ac2b3e5f534b5",
     "contact": "operator@your-domain.com"
   },
   "network": {
@@ -42,7 +42,7 @@
     }
   },
   "workers": {
-    "count": 0
+    "count": 8
   },
   "limits": {
     "connection": {
@@ -75,7 +75,7 @@
       },
       "pubkey": {
         "minLeadingZeroBits": 0,
-        "whitelist": [],
+        "whitelist": ["nsec17c0t77yfnps86g8u2txgpcx5agav2ka384xn2jcl2x9wyltawtdst9c2sy"],
         "blacklist": []
       },
       "createdAt": {

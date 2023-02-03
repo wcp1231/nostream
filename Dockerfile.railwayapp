@@ -73,6 +73,8 @@ WORKDIR /app
 
 ADD resources /app/resources
 
+ADD .nostr.local /app/.nostr
+
 COPY --from=build /build/dist .
 
 RUN npm install --omit=dev --quiet

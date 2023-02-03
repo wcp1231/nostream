@@ -30,6 +30,7 @@ dist
 
 # IDE - VSCode
 .vscode/*
+.idea
 
 # Env files
 *.env

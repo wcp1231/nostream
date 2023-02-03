@@ -75,6 +75,7 @@ limits:
       minLeadingZeroBits: 0
       whitelist:
         - 5df1e852b8718587540956fbe71fd44acb765e99a7e661ec521ac2b3e5f534b5
+        - 33e097c4331fc032f73251a3abf195abb7286883b5da421cb1f50cf0570d6422
       blacklist: []
     createdAt:
       maxPositiveDelta: 900

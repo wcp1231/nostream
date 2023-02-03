@@ -74,7 +74,7 @@ limits:
       minBalance: 0
       minLeadingZeroBits: 0
       whitelist:
-        - nsec17c0t77yfnps86g8u2txgpcx5agav2ka384xn2jcl2x9wyltawtdst9c2sy
+        - 5df1e852b8718587540956fbe71fd44acb765e99a7e661ec521ac2b3e5f534b5
       blacklist: []
     createdAt:
       maxPositiveDelta: 900
